@@ -1,0 +1,37 @@
+{
+  "entity.bat.ambient": {
+    "sounds": [
+      "mob/bat/idle1",
+      "mob/bat/idle2",
+      "mob/bat/idle3",
+      "mob/bat/idle4"
+    ],
+    "subtitle": "subtitles.entity.bat.ambient"
+  },
+  "entity.bat.death": {
+    "sounds": [
+      "mob/bat/death"
+    ],
+    "subtitle": "subtitles.entity.bat.death"
+  },
+  "entity.bat.hurt": {
+    "sounds": [
+      "mob/bat/hurt1",
+      "mob/bat/hurt2",
+      "mob/bat/hurt3",
+      "mob/bat/hurt4"
+    ],
+    "subtitle": "subtitles.entity.bat.hurt"
+  },
+  "entity.bat.loop": {
+    "sounds": [
+      "mob/bat/loop"
+    ]
+  },
+  "entity.bat.takeoff": {
+    "sounds": [
+      "mob/bat/takeoff"
+    ],
+    "subtitle": "subtitles.entity.bat.takeoff"
+  }
+}
