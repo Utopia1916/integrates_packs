@@ -1,0 +1,20 @@
+{
+  "key.lightoverlay.category": "光照叠加",
+  "key.lightoverlay.enable_overlay": "开关光照叠加",
+  "description.lightoverlay.caching": "如果检测范围超过16格或您的计算机性能较低，建议启用缓存。",
+  "config.lightoverlay.general": "通用设置",
+  "config.lightoverlay.reach": "检测范围：",
+  "config.lightoverlay.caching": "缓存：",
+  "config.lightoverlay.crossLevel": "光照等级：",
+  "config.lightoverlay.secondaryLevel": "次要光照等级：",
+  "config.lightoverlay.showNumber": "显示数字：",
+  "config.lightoverlay.smoothLines": "平滑线条：",
+  "config.lightoverlay.underwater": "显示水下：",
+  "config.lightoverlay.lineWidth": "线宽：",
+  "config.lightoverlay.yellowColor": "黄色：",
+  "config.lightoverlay.secondaryColor": "次要颜色：",
+  "config.lightoverlay.redColor": "红色：",
+  "config.lightoverlay.invalidColor": "无效颜色",
+  "config.lightoverlay.mushroom": "在蘑菇生物群系中显示：",
+  "config.lightoverlay.useListWhileCaching": "在缓存时使用glList："
+}
