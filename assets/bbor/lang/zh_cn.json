@@ -24,6 +24,8 @@
   "bbor.features.spawningSpheres": "刷怪范围",
   "bbor.features.spawnableBlocks": "允许生成的方块",
   "bbor.features.biomeBorders": "生物群落边界",
+  "bbor.features.flowerForests": "繁花森林",
+  "bbor.features.bedrockCeilingBlocks": "下界基岩天花板",
   "bbor.sections.beaconsAndConduits": "信标 & 潮涌核心",
   "bbor.features.beacons": "信标",
   "bbor.features.conduits": "潮涌核心",
@@ -78,5 +80,6 @@
   "bbor.commands.spawningSphere.cleared": "已清除刷怪范围",
   "bbor.commands.spawningSphere.calculated": "计算得出%s个可刷怪区域（其中%s个仅在晚上会刷怪",
   "bbor.renderer.spawningSphere.spawnable": "可刷怪:",
-  "bbor.renderer.spawningSphere.none": "未设置"
+  "bbor.renderer.spawningSphere.none": "未设置",
+  "Bounding Box Outline Reloaded": "BBOR设置"
 }

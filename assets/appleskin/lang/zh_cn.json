@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.appleskin.title": "AppleSkin",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip": "在悬浮提示中显示食物数值",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways": "始终在悬浮提示中显示食物数值",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay": "显示手持食物恢复的饥饿值",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand": "显示副手中食物的数值",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay": "显示预计的生命恢复",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "显示耗尽进度覆盖",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay": "显示饱和度",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo": "在调试屏幕显示食物数值",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "模拟Minecraft的HUD图标动画",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "HUD图标闪烁的最大透明度"
+}

@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.colormeoutlines.title": "颜色描边",
+  "text.autoconfig.colormeoutlines.option.red": "红色",
+  "text.autoconfig.colormeoutlines.option.green": "绿色",
+  "text.autoconfig.colormeoutlines.option.blue": "蓝色",
+  "text.autoconfig.colormeoutlines.option.alpha": "透明度",
+  "text.autoconfig.colormeoutlines.option.width": "描边宽度"
+}

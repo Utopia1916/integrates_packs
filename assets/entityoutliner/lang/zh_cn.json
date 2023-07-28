@@ -1,0 +1,12 @@
+{
+    "key.entity-outliner.selector": "打开实体选择器",
+    "key.entity-outliner.outline": "切换实体轮廓",
+    "title.entity-outliner.selector": "实体选择器",
+    "title.entity-outliner.title": "实体轮廓描边器",
+    "button.entity-outliner.deselect": "取消全部选择",
+    "button.entity-outliner.done": "完成",
+    "button.entity-outliner.categories": "分类",
+    "button.entity-outliner.no-categories": "无分类",
+    "button.entity-outliner.on": "已开启",
+    "button.entity-outliner.off": "已关闭"
+}
