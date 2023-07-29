@@ -29,4 +29,4 @@
 [BetterVanillaAnimals](https://www.curseforge.com/minecraft/texture-packs/better-vanilla-animals)更真实的原版动物  
 [Transparent+GU](https://www.curseforge.com/minecraft/texture-packs/transparent-gui-ultimate)透明GUI  
 [Xekr红显](https://www.curseforge.com/minecraft/texture-packs/xekr-redstone-display)的酿造台界面（改为透明）  
-~~[blockpixel](https://www.curseforge.com/minecraft/texture-packs/blockpixel)部分材质~~
+~~[blockpixel](https://www.curseforge.com/minecraft/texture-packs/blockpixel)部分材质~~  

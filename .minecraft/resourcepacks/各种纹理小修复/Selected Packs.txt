@@ -1,0 +1,16 @@
+Vanilla Tweaks Resource Pack
+Version: 1.16
+Packs:
+	JappaCompass
+	JappaClock
+	JappaRecipeButton
+	JappaToasts
+	JappaStatsIcons
+	ConsistentOarColors
+	CactusBottomFix
+	SoulSoilSoulCampfire
+	ItemHoldFix
+	BlazeFix
+	ProperBreakParticles
+	VillagerCloakFix
+	CatFix

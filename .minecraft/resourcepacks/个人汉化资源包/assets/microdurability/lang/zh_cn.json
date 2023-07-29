@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.microdurability.title": "microDurability——GlassBin汉化",
+  "text.autoconfig.microdurability.option.requireMending.@PrefixText": "低耐久度警告设置",
+  "text.autoconfig.microdurability.option.requireMending": "需要修补",
+  "text.autoconfig.microdurability.option.minDurability": "最小耐久度",
+  "text.autoconfig.microdurability.option.minPercent": "最小百分比",
+  "text.autoconfig.microdurability.option.blinkTime": "盔甲条闪烁速度（设置为 0 禁用）",
+  "text.autoconfig.microdurability.option.toolWarning": "显示工具损坏警告",
+  "text.autoconfig.microdurability.option.undamagedBars": "显示未损坏的盔甲条"
+}
