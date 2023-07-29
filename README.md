@@ -8,7 +8,7 @@
 [Autofish0.9.2](https://minecraft.curseforge.com/projects/autofish)完全汉化（非语言文件汉化，而是编译版本）  
 [BBOR2.4-1.16.3](https://www.curseforge.com/minecraft/mc-mods/bounding-box-outline-reloaded)汉化补充  
 [Borderless Mining1.0.6+1.16.2](https://github.com/comp500/BorderlessMining)完全汉化  
-[Color Me Outlines1.0.0](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)完全汉化
+[Color Me Outlines1.0.0](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines)完全汉化  
 ~~[lightoverlay5.8.1](https://www.curseforge.com/minecraft/mc-mods/light-overlay)汉化~~语言文件还在，因为兼容问题放弃使用了  
 [InvMove0.8.4](https://github.com/PieKing1215/InvMove)完全汉化  
 [MaLiLib0.10.0-dev.21+arne.1](https://www.curseforge.com/minecraft/mc-mods/malilib)汉化补充  
