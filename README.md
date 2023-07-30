@@ -24,7 +24,7 @@
 彩虹XP条|船桨颜色与船身同步|合成书按钮修正
 统计信息图标修正|仙人掌底部修正|烈焰人底部修正
 手持物品修正|切石机动画修正|村民斗篷  
-### 其他材质包  
+## 其他材质包  
 [醉梦巅峰汉化Masa四件套](https://space.bilibili.com/13205801)（修改了一部分）
 [BetterVanillaAnimals](https://www.curseforge.com/minecraft/texture-packs/better-vanilla-animals)更真实的原版动物  
 [Transparent+GU](https://www.curseforge.com/minecraft/texture-packs/transparent-gui-ultimate)透明GUI  
