@@ -1,0 +1,7 @@
+{
+  "config.atmosfera.resource_pack_warning": "未注册声音事件。请激活内置或自定义的 Atmosfera 资源包。",
+  "config.category.atmosfera.subtitles": "字幕",
+  "config.category.atmosfera.volumes": "音量",
+  "config.subcategory.atmosfera.ambient_sound": "环境声音",
+  "config.subcategory.atmosfera.music": "音乐"
+}
