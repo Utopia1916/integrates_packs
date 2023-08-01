@@ -1,0 +1,19 @@
+CREDITS
+
+Reijvi (Pretty much the username everywhere)
+- Creator of the pack, duhh
+
+un_roman (PMC username) 
+- Being super kind and making the title text "Minecraft Reimagined" while also being behind all of my other title and logo texts for all my other packs!
+
+RickyMemester (PMC username) 
+- Gave me permission to use a few of his "variated 1.17 ores" from his pack back when I made my first "Randomize It" pack, which are about 3-4 new ore variants for each ore, rest are made by yours truly.
+
+DartCat25 (PMC username) 
+- Gave me permission to use his "Menus - Enchanted" pack with some minor texture edits in Reimagined, since I have very little experience in how to make shaders.
+
+6_28318530717958 (PMC username)
+- Helped me to figure out how to get the decaying leaves models worked, wouldn't be able to implement it without him! 
+
+Barebones (Texturepack)
+- Used for making the panorama menu

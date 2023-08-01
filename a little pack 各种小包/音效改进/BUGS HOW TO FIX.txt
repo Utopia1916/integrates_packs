@@ -1,0 +1,24 @@
+IF YOU ARE EXPERIENCING ANY OF THESE FOLLOWING BUGS OR ISSUES, HERE ARE THE MOST COMMON REASONS AS TO WHY AND HOW TO FIX THEM
+
+BUGGED CHEST MODEL
+If ur chest appears bugged with it's textures, update your optifine to G8 and above! 
+Why?
+Most common reason as to why this issue happens is because of an outdated optifine client
+
+
+MODDED BIOMES APPEAR WHITE, AKA WHITE COLORMAP FOR MODDED BIOMES
+If you are playing on a modded client with modded biomes added and they appear white, download the "Reimagined Colormap Fix" addon here: https://www.planetminecraft.com/texture-pack/reimagined-colormap-fix/
+Note this only works for optifine users, since this is an optifine related issue afaik
+Why?
+Most common reason as of why this happens is because the pack primarly uses optifines colormap feature, which allows for a much more in-depth control of all kinds of colormaps for all blocks, like water colormap, sky colormap and so on.
+Sadly, it seems as if optifine hardcodes this, so any biome that you have not customized, will have a "missing" color, aka will appear white.
+Turning overwriting the colormap, makes it revert back to the vanilla colormap, or at least the texture pack reverts back to it's own custom vanilla colormap. So still a new texture pack colormap, just not a optifine colormap. 
+
+
+THIS MODEL DOESN'T WORK, OR THIS FEATURE DOESN'T WORK!
+Check if you are playing on a client with optifine installed, if not, you guranteed be missing some of the packs features, such as randomized mobs, 3D chests, biome specific blocks, etc
+Why?
+Vanilla minecraft sadly have a lot of limitations as to what texture packs can modify and change, luckily optifine offers a lot more freedom to texture pack makers, but optifine is required for them to work!
+
+
+-Reijvi
