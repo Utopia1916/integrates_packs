@@ -1,0 +1,21 @@
+{
+  "button.fabrictailor.clear_skin": "清除皮肤",
+  "button.fabrictailor.open_explorer": "打开资源管理器",
+  "button.fabrictailor.set_skin": "设置皮肤",
+  "button.fabrictailor.use_slim": "使用瘦小模型",
+  "category.fabrictailor.skin_category": "FabricTailor",
+  
+  "description.fabrictailor.title_local": "皮肤路径：",
+  "description.fabrictailor.title_player": "玩家名称：",
+  "description.fabrictailor.title_url": "皮肤网址：",
+  
+  "gui.fabrictailor.change_skin": "更改皮肤",
+  
+  "hint.fabrictailor.dragAndDrop": "您还可以将皮肤拖放到此处！",
+  
+  "key.fabrictailor.toggle_skin_gui": "打开皮肤界面",
+  
+  "tab.fabrictailor.title_local": "上传本地皮肤",
+  "tab.fabrictailor.title_player": "从玩家获取",
+  "tab.fabrictailor.title_url": "从网址获取"
+}

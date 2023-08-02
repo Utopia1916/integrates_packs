@@ -1,0 +1,495 @@
+drippyloadingscreen.helper.creator.messages.sure = 确定吗？
+drippyloadingscreen.helper.creator.empty = 空白
+
+drippyloadingscreen.helper.creator.layoutempty.title = 布局为空！
+drippyloadingscreen.helper.creator.layoutempty.desc = 您的布局没有内容。%n%%n%在保存之前进行一些自定义操作吧！
+
+drippyloadingscreen.helper.creator.invalidaudio.title = 无效的音频文件！
+drippyloadingscreen.helper.creator.invalidaudio.desc = 您要加载的文件不存在或不支持的文件类型。%n%%n%请检查文件路径，并确保您的文件是有效的 WAV 音频文件！
+
+drippyloadingscreen.helper.creator.invalidimage.title = 无效的图像文件！
+drippyloadingscreen.helper.creator.invalidimage.desc = 您要加载的图像不存在或不支持的文件类型。%n%%n%支持的文件类型为 JPG/JPEG、PNG 和 GIF。
+
+drippyloadingscreen.helper.creator.imagenotfound.title = 图像未找到！
+drippyloadingscreen.helper.creator.imagenotfound.desc = 您要添加的图像在指定位置不存在。
+
+drippyloadingscreen.helper.creator.texttooshort.title = 文本太短！
+drippyloadingscreen.helper.creator.texttooshort.desc = 您的文本至少需要一个字符才能成为文本！%n%%n%否则...它...将会是空白的。%n%%n%没有人想变成空白，所以不要让您的文本变成空白！
+
+drippyloadingscreen.helper.creator.cannotdelete.title = 无法删除元素！
+drippyloadingscreen.helper.creator.cannotdelete.desc = 抱歉，您无法删除此元素。%n%%n%您将需要学会如何与它相处。
+
+drippyloadingscreen.helper.creator.savefile.cancel = 取消
+
+drippyloadingscreen.helper.creator.layoutoptions.renderorder = 渲染顺序
+drippyloadingscreen.helper.creator.layoutoptions.renderorder.background = 背景
+drippyloadingscreen.helper.creator.layoutoptions.renderorder.foreground = 前景
+
+drippyloadingscreen.helper.creator.layoutoptions.version.mc = Minecraft 版本
+drippyloadingscreen.helper.creator.layoutoptions.version.dl = DrippyLoadingScreen 版本
+drippyloadingscreen.helper.creator.layoutoptions.version.minimum = 设置最低
+drippyloadingscreen.helper.creator.layoutoptions.version.minimum.mc = 最低 Minecraft 版本
+drippyloadingscreen.helper.creator.layoutoptions.version.minimum.fh = 最低 DrippyLoadingScreen 版本
+drippyloadingscreen.helper.creator.layoutoptions.version.maximum = 设置最高
+drippyloadingscreen.helper.creator.layoutoptions.version.maximum.mc = 最高 Minecraft 版本
+drippyloadingscreen.helper.creator.layoutoptions.version.maximum.dl = 最高 DrippyLoadingScreen 版本
+
+drippyloadingscreen.helper.creator.layoutoptions.resetbackground = 重置背景
+
+drippyloadingscreen.helper.creator.layoutoptions.requiredmods = 必需的模组
+drippyloadingscreen.helper.creator.layoutoptions.requiredmods.desc = 必需的模组 [模组标识符，以逗号分隔]
+
+drippyloadingscreen.helper.creator.close = 您真的要关闭布局创建器吗？
+
+drippyloadingscreen.helper.creator.audio.delete = 删除
+drippyloadingscreen.helper.creator.audio.delete.msg = 您真的要删除此音频吗？
+drippyloadingscreen.helper.creator.audio.enableloop = 循环：§c关闭
+drippyloadingscreen.helper.creator.audio.disableloop = 循环：§a开启
+
+drippyloadingscreen.helper.creator.add.image = 图像
+drippyloadingscreen.helper.creator.add.image.path = 图像路径
+
+drippyloadingscreen.helper.creator.add.animation = 动画
+drippyloadingscreen.helper.creator.add.animation.entername = 按名称添加
+drippyloadingscreen.helper.creator.add.animation.entername.title = 动画名称
+
+drippyloadingscreen.helper.creator.add.text = 文本
+drippyloadingscreen.helper.creator.add.text.newtext = 新文本
+
+drippyloadingscreen.helper.creator.add.audio = 音频
+
+drippyloadingscreen.helper.creator.vanillabutton.autoclick = 单击按钮
+drippyloadingscreen.helper.creator.vanillabutton.autoclick.popup = 自动按钮点击
+
+drippyloadingscreen.helper.creator.backgroundoptions = 背景选项
+
+drippyloadingscreen.helper.creator.items.setorientation = 设置方向
+drippyloadingscreen.helper.creator.items.delete = 删除
+drippyloadingscreen.helper.creator.items.border.posx = X 坐标
+drippyloadingscreen.helper.creator.items.border.posy = Y 坐标
+drippyloadingscreen.helper.creator.items.border.orientation = 方向
+drippyloadingscreen.helper.creator.items.border.width = 宽度
+drippyloadingscreen.helper.creator.items.border.height = 高度
+
+drippyloadingscreen.helper.creator.items.string.setscale = 设置比例
+drippyloadingscreen.helper.creator.items.string.setshadow = 阴影：§c关闭
+drippyloadingscreen.helper.creator.items.string.setnoshadow = 阴影：§a开启
+drippyloadingscreen.helper.creator.items.string.edit = 编辑内容
+drippyloadingscreen.helper.creator.items.string.border.centered = 居中
+drippyloadingscreen.helper.creator.items.string.border.scale = 比例
+
+drippyloadingscreen.helper.creator.items.string.scale.invalidvalue.title = 无效的值！
+drippyloadingscreen.helper.creator.items.string.scale.invalidvalue.desc = 您要设置的值不是有效的比例值！%n%%n%比例值示例：1.0、2.0、0.5
+
+drippyloadingscreen.helper.creator.deleteobject = 您真的要§l删除§r此元素吗？
+
+drippyloadingscreen.helper.creator.choosefile.enterorchoose = §l输入路径或选择文件
+drippyloadingscreen.helper.creator.choosefile.choose = 选择文件
+drippyloadingscreen.helper.creator.choosefile.notsupported = §c不支持文件选择器或已禁用！请手动输入路径。
+
+drippyloadingscreen.helper.creator.webstring.multiline = 多行：§c关闭
+drippyloadingscreen.helper.creator.webstring.nomultiline = 多行：§a开启
+
+drippyloadingscreen.helper.creator.web.invalidurl = §c§l无效的 URL！%n%%n%此 URL 不是有效的 URL 或不存在！
+drippyloadingscreen.helper.creator.web.enterurl = 输入 URL
+
+drippyloadingscreen.helper.creator.add.webimage = 网络图像
+drippyloadingscreen.helper.creator.add.webtext = 网络文本
+
+drippyloadingscreen.helper.creator.editlayout = 编辑布局
+drippyloadingscreen.helper.creator.editlayout.popup.loadall = 加载所有
+drippyloadingscreen.helper.creator.editlayout.popup.loadselected = 加载所选布局
+drippyloadingscreen.helper.creator.editlayout.popup.layouts = 布局
+drippyloadingscreen.helper.creator.editlayout.popup.cancel = 取消
+drippyloadingscreen.helper.creator.editlayout.popup.actionscount = {} 个自定义操作
+drippyloadingscreen.helper.creator.editlayout.nolayouts.msg = §c§l找不到布局！%n%%n%%n%此菜单不包含任何布局！%n%%n%如果您想自定义此菜单，请使用“创建布局”按钮！
+drippyloadingscreen.helper.creator.editlayout.popup.msg = 此菜单屏幕存在多个自定义文件！%n%%n%您想加载完整布局并合并所有布局%n%还是只想加载特定布局？%n%%n%§c自定义元数据在合并多个布局时会丢失！
+
+drippyloadingscreen.helper.creator.editlayout.single.override = 覆盖现有布局
+drippyloadingscreen.helper.creator.editlayout.single.asnew.keep = 另存为新布局并保留其他启用状态
+drippyloadingscreen.helper.creator.editlayout.single.asnew.disable = 另存为新布局并禁用其他布局
+
+drippyloadingscreen.helper.creator.items.button.hoverlabel = 悬停标签
+drippyloadingscreen.helper.creator.items.button.hoverlabel.text = 悬停标签文本
+drippyloadingscreen.helper.creator.items.button.hoverlabel.reset = 重置悬停标签
+drippyloadingscreen.helper.creator.items.button.hoversound = 悬停音效
+drippyloadingscreen.helper.creator.items.button.hoversound.path = 悬停音效路径
+drippyloadingscreen.helper.creator.items.button.hoversound.reset = 重置悬停音效
+
+drippyloadingscreen.helper.creator.editlayout.unsupportedvalues = §c§l不支持的值！%n%%n%%n%您的布局包含不支持的值！%n%这些值在布局创建器中不起作用。%n%%n%您可能在自定义部分中使用了某种§l位置或尺寸计算方式。%n%请手动将这些计算转换为绝对值，然后重试。
+
+drippyloadingscreen.helper.creator.textures.invalidcharacters = §c§l无效的字符！%n%%n%%n%您的图像文件名包含无效字符！%n%%n%请仅使用字符“a-z”、“0-9”、“.”、“_”和“-”。%n%空格、大写字母和其他特殊字符不受支持。
+
+drippyloadingscreen.helper.buttons.tools.customguis = 自定义 GUI
+drippyloadingscreen.helper.buttons.tools.customguis.open = 打开 GUI
+drippyloadingscreen.helper.buttons.tools.customguis.delete = 删除 GUI
+drippyloadingscreen.helper.buttons.tools.customguis.pickbyname = 按名称选择
+drippyloadingscreen.helper.buttons.tools.customguis.openbyname = 按名称打开
+drippyloadingscreen.helper.buttons.tools.customguis.deletebyname = 按名称删除
+drippyloadingscreen.helper.buttons.tools.customguis.sure = §c§l确定吗？%n%%n%%n%您真的要§l删除§r此 GUI 吗？%n%%n%§l此操作无法撤消！%n% %n% %n% %n%
+drippyloadingscreen.helper.buttons.tools.customguis.invalididentifier = §c§l无效的标识符！%n%%n%%n%未找到使用此标识符的自定义 GUI！%n% %n% %n% %n%
+
+drippyloadingscreen.helper.buttons.tools.creategui = 创建 GUI
+drippyloadingscreen.helper.buttons.tools.creategui.allowesc = 允许
+drippyloadingscreen.helper.buttons.tools.creategui.donotallowesc = 不允许
+drippyloadingscreen.helper.buttons.tools.creategui.invalididentifier = 无效的标识符！
+drippyloadingscreen.helper.buttons.tools.creategui.identifieralreadyused = 标识符已在使用中！请选择另一个标识符！
+drippyloadingscreen.helper.buttons.tools.creategui.allowescdesc = 允许使用 ESC 关闭菜单
+drippyloadingscreen.helper.buttons.tools.creategui.menuidentifier = 菜单标识符
+drippyloadingscreen.helper.buttons.tools.creategui.menutitle = 菜单标题（可选）
+drippyloadingscreen.helper.buttons.tools.creategui.create = 创建
+
+drippyloadingscreen.gameintro.skip = 按空格键跳过
+
+drippyloadingscreen.helper.creator.custombutton.config.actiontype.opengui.desc = 通过菜单标识符打开 GUI。
+drippyloadingscreen.helper.creator.custombutton.config.actiontype.opengui.desc.value = 菜单标识符
+
+drippyloadingscreen.helper.creator.popup.hidefor.delayeverytime = 每次延迟
+drippyloadingscreen.helper.creator.popup.hidefor.delayfirsttime = 首次延迟
+
+drippyloadingscreen.helper.creator.windowsize = 窗口尺寸限制
+drippyloadingscreen.helper.creator.windowsize.biggerthan = 大于
+drippyloadingscreen.helper.creator.windowsize.smallerthan = 小于
+drippyloadingscreen.helper.creator.windowsize.biggerthan.desc = 仅在窗口大于 X 时启用布局
+drippyloadingscreen.helper.creator.windowsize.smallerthan.desc = 仅在窗口小于 X 时启用布局
+drippyloadingscreen.helper.creator.windowsize.currentwidth = 当前窗口宽度
+drippyloadingscreen.helper.creator.windowsize.currentheight = 当前窗口高度
+
+drippyloadingscreen.helper.creator.rightclick.scale = GUI 比例
+drippyloadingscreen.helper.creator.rightclick.scale.invalid = §c§l无效的比例！%n%%n%%n%比例值必须大于零！
+
+drippyloadingscreen.helper.popup.togglecustomization.enable = 自定义：§c关闭
+drippyloadingscreen.helper.popup.togglecustomization.disable = 自定义：§a开启
+
+drippyloadingscreen.helper.creator.object.stretch = 拉伸
+drippyloadingscreen.helper.creator.object.stretch.x = 拉伸至屏幕宽度
+drippyloadingscreen.helper.creator.object.stretch.y = 拉伸至屏幕高度
+
+drippyloadingscreen.helper.creator.object.stretch.unsupportedorientation = §c§l不支持的方向！%n%%n%%n%此元素的当前方向不受此拉伸操作支持。%n%%n%§l支持的方向：{}
+drippyloadingscreen.helper.creator.buttons.customization.createlayout.btndesc = 在漂亮的 GUI 编辑器中自定义当前显示的菜单！%n%%n%§c重要：%n%始终在%n%编辑已有菜单时使用！
+drippyloadingscreen.helper.buttons.customization.editlayout.btndesc = 编辑当前显示菜单的布局。
+drippyloadingscreen.helper.buttons.reload.btndesc = 将重新加载 HUD、所有布局、模组配置等。%n%%n%在手动更改布局或编辑配置后使用。
+
+drippyloadingscreen.helper.buttons.customization.managelayouts = 管理布局
+drippyloadingscreen.helper.buttons.customization.managelayouts.enable = §a启用§r布局
+drippyloadingscreen.helper.buttons.customization.managelayouts.enabled = §a已启用
+drippyloadingscreen.helper.buttons.customization.managelayouts.disable = §c禁用§r布局
+drippyloadingscreen.helper.buttons.customization.managelayouts.disabled = §c已禁用
+drippyloadingscreen.helper.buttons.customization.managelayouts.delete = 删除布局
+drippyloadingscreen.helper.buttons.customization.managelayouts.delete.msg = §c§l确定吗？%n%%n%%n%您真的要§c§l删除§r此布局吗？%n%%n%§c§l此操作无法撤消！
+drippyloadingscreen.helper.buttons.customization.managelayouts.btndesc = 管理当前显示菜单的所有布局。
+drippyloadingscreen.helper.buttons.customization.managelayouts.layout.btndesc = §l布局信息：%n%%n%状态：{}%n%自定义操作：{}%n%%n%§c左键单击以获取更多选项！
+
+drippyloadingscreen.helper.creator.object.moveup = 移动到上方
+drippyloadingscreen.helper.creator.object.moveup.desc = 将元素移到上一层。%n%%n%§c重要：%n%已聚焦的元素始终位于顶层，%n%因此您在取消对元素的聚焦之前将看不到效果。{}
+drippyloadingscreen.helper.creator.object.moveup.desc.subtext = %n%%n%§6§l上一操作：%n%移到 {} 上方
+drippyloadingscreen.helper.creator.object.movedown = 移动到下方
+drippyloadingscreen.helper.creator.object.movedown.desc = 将元素移到下一层。%n%%n%§c重要：%n%已聚焦的元素始终位于顶层，%n%因此您在取消对元素的聚焦之前将看不到效果。{}
+drippyloadingscreen.helper.creator.object.movedown.desc.subtext = %n%%n%§6§l上一操作：%n%移到 {} 下方
+
+drippyloadingscreen.helper.buttons.customization.managelayouts.openintexteditor = 在文本编辑器中打开
+drippyloadingscreen.helper.buttons.customization.managelayouts.openintexteditor.desc = 在默认的文本编辑器中打开此布局。%n%%n%§c重要：%n%在手动更改布局文件后，需要单击“重新加载”按钮！
+
+drippyloadingscreen.helper.creator.deleteselectedobjects = 您真的要§l删除§r所有选定的元素吗？
+
+drippyloadingscreen.helper.creator.multiselect.object.deleteall = 删除所有
+drippyloadingscreen.helper.creator.multiselect.object.deleteall.btndesc = 将删除所有选定的元素。
+drippyloadingscreen.helper.creator.multiselect.object.stretchall = 拉伸全部
+drippyloadingscreen.helper.creator.multiselect.object.stretchall.btndesc = 将所有§l可拉伸§r元素%n%拉伸至菜单的宽度或高度。
+
+drippyloadingscreen.helper.creator.add.playerentity = 玩家实体
+
+drippyloadingscreen.helper.creator.items.playerentity.setscale = 设置比例
+drippyloadingscreen.helper.creator.items.playerentity.playername = 玩家名称
+drippyloadingscreen.helper.creator.items.playerentity.playername.auto = 自动
+drippyloadingscreen.helper.creator.items.playerentity.playername.setname = 设置名称
+drippyloadingscreen.helper.creator.items.playerentity.skin = 设置皮肤
+drippyloadingscreen.helper.creator.items.playerentity.cape = 设置披风
+drippyloadingscreen.helper.creator.items.playerentity.texture.local = 本地纹理
+drippyloadingscreen.helper.creator.items.playerentity.texture.url = 网址
+drippyloadingscreen.helper.creator.items.playerentity.rotation = 旋转
+drippyloadingscreen.helper.creator.items.playerentity.rotation.auto = 自动旋转
+drippyloadingscreen.helper.creator.items.playerentity.rotation.custom = 自定义旋转
+drippyloadingscreen.helper.creator.items.playerentity.rotation.custom.bodyx = 水平身体旋转
+drippyloadingscreen.helper.creator.items.playerentity.rotation.custom.bodyy = 垂直身体旋转
+drippyloadingscreen.helper.creator.items.playerentity.rotation.custom.headx = 水平头部旋转
+drippyloadingscreen.helper.creator.items.playerentity.rotation.custom.heady = 垂直头部旋转
+drippyloadingscreen.helper.creator.items.playerentity.showname.off = 显示名称：§c关闭
+drippyloadingscreen.helper.creator.items.playerentity.showname.on = 显示名称：§a开启
+drippyloadingscreen.helper.creator.items.playerentity.crouching.off = 弯腰：§c关闭
+drippyloadingscreen.helper.creator.items.playerentity.crouching.on = 弯腰：§a开启
+drippyloadingscreen.helper.creator.items.playerentity.parrot.off = 显示鹦鹉：§c关闭
+drippyloadingscreen.helper.creator.items.playerentity.parrot.on = 显示鹦鹉：§a开启
+drippyloadingscreen.helper.creator.items.playerentity.slim.off = 细身皮肤：§c关闭
+drippyloadingscreen.helper.creator.items.playerentity.slim.on = 细身皮肤：§a开启
+
+drippyloadingscreen.helper.creator.items.playerentity.setscale.btndesc = 设置玩家的比例。
+drippyloadingscreen.helper.creator.items.playerentity.playername.btndesc = 设置玩家的名称。
+drippyloadingscreen.helper.creator.items.playerentity.playername.auto.btndesc = 将玩家设置为客户端用户。
+drippyloadingscreen.helper.creator.items.playerentity.playername.setname.btndesc = 手动设置玩家名称。%n%%n%不必是现有用户。
+drippyloadingscreen.helper.creator.items.playerentity.skin.btndesc = 设置玩家的皮肤纹理。%n%%n%此皮肤优先于玩家的正常皮肤。
+drippyloadingscreen.helper.creator.items.playerentity.cape.btndesc = 设置玩家的披风纹理。%n%%n%此披风优先于玩家的正常披风。
+drippyloadingscreen.helper.creator.items.playerentity.rotation.btndesc = 设置玩家的身体和头部旋转。
+drippyloadingscreen.helper.creator.items.playerentity.rotation.auto.btndesc = 玩家将跟随鼠标光标。
+drippyloadingscreen.helper.creator.items.playerentity.rotation.custom.btndesc = 设置自定义玩家旋转。
+drippyloadingscreen.helper.creator.items.playerentity.showname.btndesc = 设置玩家名称的可见性。
+drippyloadingscreen.helper.creator.items.playerentity.crouching.btndesc = 设置玩家是否应弯腰。
+drippyloadingscreen.helper.creator.items.playerentity.parrot.btndesc = 鹦鹉！
+drippyloadingscreen.helper.creator.items.playerentity.slim.btndesc = 设置玩家是否应具有细身皮肤。%n%%n%细身皮肤具有较细的胳膊。
+
+drippyloadingscreen.helper.creator.items.playerentity.texture.invalidtexture.title = 无效的纹理！
+drippyloadingscreen.helper.creator.items.playerentity.texture.invalidtexture.desc = 此纹理要么不存在，要么不是有效的纹理文件。%n%%n%§l支持的文件类型：§rPNG
+
+drippyloadingscreen.popup.apply = 应用
+
+drippyloadingscreen.helper.creator.items.orientation.btndesc = 设置此元素位置计算的原点。%n%%n%§c重要：%n%在更改方向后，通过%n%调整编辑器窗口大小%n%来查看元素如何受到影响。
+
+drippyloadingscreen.helper.creator.add.shapes = 形状
+drippyloadingscreen.helper.creator.add.shapes.rectangle = 矩形
+
+drippyloadingscreen.helper.creator.items.shape.color = 颜色
+drippyloadingscreen.helper.creator.items.shape.color.btndesc = 设置形状的HEX颜色。%n%%n%§c注意：%n%您可以使用HEX颜色来%n%设置元素的不透明度！
+
+drippyloadingscreen.helper.creator.object.movedown.desc.subtext.vanillabutton = %n%%n%§c您无法将元素移动到%n%§c普通按钮§c后面。%n%%n%您可以将布局%n%的渲染顺序设置为“背景”%n%以将所有元素渲染在%n%默认菜单内容（如%n%普通按钮）之后。%n%%n%在编辑器背景上%n%§l右键单击 §r以设置渲染顺序！
+
+drippyloadingscreen.helper.buttons.tools.misc = 杂项
+drippyloadingscreen.helper.buttons.tools.misc.btndesc = 包含更多用于自定义菜单的工具和选项。
+drippyloadingscreen.helper.buttons.tools.misc.openloadingscreen = 打开加载屏幕
+drippyloadingscreen.helper.buttons.tools.misc.openloadingscreen.btndesc = 将打开一个“死”实例的世界加载屏幕，以便进行自定义。%n%%n%§c注意：%n%您可以通过单击“打开主菜单”按钮关闭此菜单。
+drippyloadingscreen.helper.buttons.tools.misc.openmainmenu = 打开主菜单
+drippyloadingscreen.helper.buttons.tools.misc.openmainmenu.btndesc = 将打开主菜单。%n%在菜单中卡住时很有用。
+drippyloadingscreen.helper.buttons.tools.misc.openmessagescreen = 打开消息屏幕
+drippyloadingscreen.helper.buttons.tools.misc.openmessagescreen.btndesc = 将打开一个实例，显示世界加载屏幕之前或离开世界时的消息。%n%%n%§c注意：%n%您可以通过单击“打开主菜单”按钮关闭此菜单。
+
+drippyloadingscreen.helper.menubar.expand = 展开菜单栏
+drippyloadingscreen.helper.menubar.shrink = 收缩菜单栏
+
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.desc = §l占位符文本值%n%%n%在文本中插入占位符，稍后将用真实值%n%（如玩家名称或MC版本）替换。%n%%n%§l§c重要：%n%在编辑器中您将看到这些值%n%作为占位符，在实际HUD中%n%您将看到真实值。
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.playername = 玩家名称
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.playername.desc = 获取玩家名称。
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.playeruuid = 玩家 UUID
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.playeruuid.desc = 获取玩家 UUID。
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.mcversion = Minecraft 版本
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.mcversion.desc = 获取 Minecraft 版本。
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.forgeversion = Mod Loader 版本
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.forgeversion.desc = 获取模组加载器版本。
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.modversion = 模组版本
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.modversion.desc = 通过模组 ID 获取模组版本。%n%%n%只需在占位符中%n%将“<modid>”替换为现有模组 ID。
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.totalmods = 总模组数
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.totalmods.desc = 获取总模组数。%n%这包括禁用的模组。
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.loadedmods = 活跃模组数
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.loadedmods.desc = 获取活跃模组数。%n%这不包括禁用的模组。
+
+drippyloadingscreen.helper.creator.items.string.alignment = 对齐方式
+drippyloadingscreen.helper.creator.items.string.alignment.desc = 设置文本对齐方式。%n%%n%§c在文本宽度不%n%§c总是相同的情况下%n%§c很有用，比如占位符文本值。
+drippyloadingscreen.helper.creator.items.string.alignment.left = 左对齐
+drippyloadingscreen.helper.creator.items.string.alignment.right = 右对齐
+drippyloadingscreen.helper.creator.items.string.alignment.centered = 居中对齐
+
+drippyloadingscreen.helper.creator.items.string.border.alignment = 对齐方式
+
+drippyloadingscreen.helper.ui.hud = 加载屏幕
+drippyloadingscreen.helper.ui.hud.layouts = 布局
+drippyloadingscreen.helper.ui.hud.layouts.desc = 创建和管理您的布局。
+drippyloadingscreen.helper.ui.hud.layouts.new = 新建
+drippyloadingscreen.helper.ui.hud.layouts.new.desc = 创建新布局。
+drippyloadingscreen.helper.ui.hud.layouts.manage = 管理布局
+drippyloadingscreen.helper.ui.hud.layouts.manage.desc = 管理现有的布局。
+drippyloadingscreen.helper.ui.hud.layouts.manage.edit = 编辑
+drippyloadingscreen.helper.ui.hud.layouts.manage.edit.desc = 在布局编辑器中编辑此布局。
+
+drippyloadingscreen.helper.ui.closehelper = 关闭自定义助手
+
+drippyloadingscreen.helper.ui.reload.desc = 重新加载 DrippyLoadingScreen。%n%%n%§l将重新加载：%n%- 幻灯片%n%- 模组配置%n%- 布局%n%- 随机布局
+
+drippyloadingscreen.helper.editor.ui.unsavedwarning = §c§l确定吗？%n%%n%%n%当前布局的所有未保存更改将丢失！%n% %n% %n%
+
+drippyloadingscreen.helper.editor.ui.layout = 布局
+drippyloadingscreen.helper.editor.ui.layout.new = 新建
+drippyloadingscreen.helper.editor.ui.layout.open = 打开
+drippyloadingscreen.helper.editor.ui.layout.save = 保存
+drippyloadingscreen.helper.editor.ui.layout.saveas = 另存为
+drippyloadingscreen.helper.editor.ui.layout.saveas.entername = §l输入布局名称
+drippyloadingscreen.helper.editor.ui.layout.saveas.failed = §c§l保存失败！%n%%n%%n%不支持的布局名称或布局已存在！%n% %n% %n% %n%
+
+drippyloadingscreen.helper.editor.ui.layout.properties = 属性
+
+drippyloadingscreen.helper.editor.ui.edit = 编辑
+drippyloadingscreen.helper.editor.ui.edit.undo = 撤销
+drippyloadingscreen.helper.editor.ui.edit.redo = 重做
+drippyloadingscreen.helper.editor.ui.edit.copy = 复制
+drippyloadingscreen.helper.editor.ui.edit.paste = 粘贴
+
+drippyloadingscreen.helper.editor.ui.element = 元素
+drippyloadingscreen.helper.editor.ui.element.new = 新建
+drippyloadingscreen.helper.editor.ui.element.manageaudio = 管理音频
+drippyloadingscreen.helper.editor.ui.element.manageaudio.loop.on = 循环：§a开启
+drippyloadingscreen.helper.editor.ui.element.manageaudio.loop.off = 循环：§c关闭
+drippyloadingscreen.helper.editor.ui.element.deletedvanillabuttons = 已删除的普通按钮
+drippyloadingscreen.helper.editor.ui.element.deletedvanillabuttons.entry.desc = 左击以撤销删除。
+
+drippyloadingscreen.helper.editor.ui.exit = 退出
+drippyloadingscreen.helper.editor.ui.exit.desc = 关闭编辑器。
+
+drippyloadingscreen.helper.editor.ui.layoutproperties.newelement = 新建元素
+
+drippyloadingscreen.helper.ui.tools = 工具
+
+drippyloadingscreen.helper.editor.elements.vanilla.managedeleted = 已删除的普通元素
+drippyloadingscreen.helper.editor.elements.vanilla.managedeleted.entry.desc = §c左击以使其可见！
+
+drippyloadingscreen.helper.openhelper = 自定义加载屏幕
+
+drippyloadingscreen.config = DrippyLoadingScreen 设置
+
+drippyloadingscreen.config.categories.logging = 日志记录
+
+drippyloadingscreen.config.printwarnings = 打印警告
+drippyloadingscreen.config.printwarnings.desc = 将警告消息输出到日志。
+
+drippyloadingscreen.config.categories.layouteditor = 布局编辑器
+
+drippyloadingscreen.config.editordeleteconfirmation = 删除确认
+drippyloadingscreen.config.editordeleteconfirmation.desc = 在删除元素时是否显示确认弹出窗口。
+
+drippyloadingscreen.config.categories.customization = 自定义
+
+drippyloadingscreen.config.showcustomizationcontrols = 自定义控件
+drippyloadingscreen.config.showcustomizationcontrols.desc = 是否在主菜单中显示自定义按钮。%n%%n%§c§l重要：%n%如果按键绑定也被禁用%n%，您需要在配置文件中手动%n%重新启用此设置。
+
+以下是你提供的文本的翻译：
+
+drippyloadingscreen.config.enablekeybinds = 快捷键
+drippyloadingscreen.config.enablekeybinds.desc = 是否启用模组快捷键。%n%%n%§c§l重要：%n%更改此值后需要重新启动。
+
+drippyloadingscreen.config.categories.ui = 模组用户界面
+
+drippyloadingscreen.config.uiscale = 界面比例
+drippyloadingscreen.config.uiscale.desc = 模组用户界面的比例。%n%包括菜单栏、上下文菜单和其他元素。
+
+drippyloadingscreen.helper.editor.properties.renderingorder.desc = 是否将§l自定义§r元素渲染在所有原始元素之前或之后。
+
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.realtimeyear = 年
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.realtimemonth = 月
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.realtimeday = 日
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.realtimehour = 时
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.realtimeminute = 分
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.realtimesecond = 秒
+
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.categories.player = 玩家
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.categories.other = 其他
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.categories.realtime = 现实时间
+
+drippyloadingscreen.helper.editor.elements.vanilla.resetelement = 重置元素
+drippyloadingscreen.helper.editor.elements.vanilla.resetelement.btn.desc = 将元素重置为默认值。
+
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.fps = 当前帧率
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.percentram = 当前已使用内存百分比
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.usedram = 当前已使用内存（MB）
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.maxram = 最大内存（MB）
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.targetblock = 目标方块
+
+drippyloadingscreen.helper.editor.elements.scale = 缩放
+drippyloadingscreen.helper.editor.elements.scale.btn.desc = 设置此元素的缩放比例。
+
+drippyloadingscreen.helper.ui.hud.lightmode.on = 亮色模式：§a开启
+drippyloadingscreen.helper.ui.hud.lightmode.off = 亮色模式：§c关闭
+drippyloadingscreen.helper.ui.hud.lightmode.btn.desc = 如果启用，原生 HUD 元素将无法自定义。%n%%n%您仍可以将新元素添加到 HUD，但原生元素的自定义将被忽略。%n%%n%§c启用后将显著提高%n%与其他模组的兼容性。%n%%n%§o单击切换模式。
+drippyloadingscreen.helper.ui.hud.lightmode.popup.msg = §c§l您确定吗？%n%%n%此操作需要重新启动。%n%%n%您确定要立即§c退出游戏§r吗？%n% %n% %n% %n% %n%
+
+drippyloadingscreen.helper.editor.elements.string.rainbow.on = 彩虹模式：§a开启
+drippyloadingscreen.helper.editor.elements.string.rainbow.off = 彩虹模式：§c关闭
+drippyloadingscreen.helper.editor.elements.string.rainbow.btn.desc = 是否以花哨的彩色 RGB 文本渲染文本。
+
+drippyloadingscreen.helper.editor.elements.string.rainbow.speed = 彩虹渐变速度
+drippyloadingscreen.helper.editor.elements.string.rainbow.colors = 设置彩虹渐变颜色
+drippyloadingscreen.helper.editor.elements.string.rainbow.colors.popup.firststartcolor = 第一起始颜色
+drippyloadingscreen.helper.editor.elements.string.rainbow.colors.popup.firstendcolor = 第一结束颜色
+drippyloadingscreen.helper.editor.elements.string.rainbow.colors.popup.secondstartcolor = 第二起始颜色
+drippyloadingscreen.helper.editor.elements.string.rainbow.colors.popup.secondendcolor = 第二结束颜色
+drippyloadingscreen.helper.editor.elements.string.rainbow.colors.popup.colordesc.line1 = 渐变开始时的前两种颜色
+drippyloadingscreen.helper.editor.elements.string.rainbow.colors.popup.colordesc.line2 = 渐变结束时的后两种颜色
+drippyloadingscreen.helper.editor.elements.string.rainbow.colors.popup.colordesc.line3 = 文本从第一个渐变到第二个渐变。
+
+drippyloadingscreen.helper.editor.backgroundcolor = 背景颜色
+drippyloadingscreen.helper.editor.backgroundcolor.btn.desc = 更改加载屏幕的背景颜色。
+
+drippyloadingscreen.helper.editor.elements.vanilla.progressbar.color = 进度条颜色
+drippyloadingscreen.helper.editor.elements.vanilla.progressbar.color.btn.desc = 设置进度条的颜色。
+
+drippyloadingscreen.helper.editor.elements.text.color = 文本颜色
+drippyloadingscreen.helper.editor.elements.text.color.btn.desc = 设置此文本的颜色。
+drippyloadingscreen.helper.editor.elements.text.onlybasicchars = §c§l仅支持基本字符！%n%使用特殊字符如 @ 或 ä%n%将导致渲染故障！
+
+drippyloadingscreen.helper.creator.add.custombars.barcolor = 进度条 HEX 颜色
+drippyloadingscreen.helper.creator.add.custombars.backgroundcolor = 背景 HEX 颜色
+drippyloadingscreen.helper.creator.add.custombars.bartexture = 进度条纹理
+drippyloadingscreen.helper.creator.add.custombars.bartexture.btn.desc = 为进度条设置自定义纹理。%n%这将替代进度条颜色。
+drippyloadingscreen.helper.creator.add.custombars.backgroundtexture = 背景纹理
+drippyloadingscreen.helper.creator.add.custombars.backgroundtexture.btn.desc = 为背景设置自定义纹理。%n%这将替代背景颜色
+
+。
+drippyloadingscreen.helper.creator.add.custombars.direction.left = 方向：§6左
+drippyloadingscreen.helper.creator.add.custombars.direction.right = 方向：§6右
+drippyloadingscreen.helper.creator.add.custombars.direction.up = 方向：§6上
+drippyloadingscreen.helper.creator.add.custombars.direction.down = 方向：§6下
+
+drippyloadingscreen.helper.creator.add.customprogressbar = 自定义进度条
+
+drippyloadingscreen.helper.editor.backgroundimage = 背景图像
+drippyloadingscreen.helper.editor.backgroundimage.btn.desc = 将图像设置为背景。
+
+drippyloadingscreen.config.showgrid = 显示网格
+drippyloadingscreen.config.showgrid.desc = 在编辑器中添加网格以便对齐。
+drippyloadingscreen.config.gridsize = 网格大小
+drippyloadingscreen.config.gridsize.desc = 一个网格方格的内部尺寸。
+
+drippyloadingscreen.helper.editor.forcescale = 强制 GUI 缩放
+drippyloadingscreen.helper.editor.forcescale.btn.desc = 强制加载屏幕的 GUI 缩放。
+
+drippyloadingscreen.helper.editor.fadeout.on = 淡出屏幕：§a开启
+drippyloadingscreen.helper.editor.fadeout.off = 淡出屏幕：§c关闭
+drippyloadingscreen.helper.editor.fadeout.btn.desc = 加载屏幕是否应淡出到下一个屏幕。%n%%n%在安装了 FancyMenu 时始终被禁用。
+
+drippyloadingscreen.helper.editor.properties.autoscale.on = 自动调整布局：§a开启
+drippyloadingscreen.helper.editor.properties.autoscale.off = 自动调整布局：§c关闭
+drippyloadingscreen.helper.editor.properties.autoscale.btn.desc = 让 Drippy 处理加载屏幕的缩放，以便您的布局适用于每个缩放和分辨率。%n%%n%§c这将使文本元素在某些缩放下看起来模糊。%n%§c无法修复这个问题，最佳解决方法是使用%n%具有背景的图像作为文本元素。
+drippyloadingscreen.helper.editor.properties.autoscale.basesize.popup.desc.line1 = 在这里您可以设置您布局的基本窗口大小。
+drippyloadingscreen.helper.editor.properties.autoscale.basesize.popup.desc.line2 = 这应该是您的布局设计的大小。
+drippyloadingscreen.helper.editor.properties.autoscale.basesize.popup.desc.line3 = 如果您在当前窗口大小下进行了设计，只需将值保持不变。
+drippyloadingscreen.helper.editor.properties.autoscale.error = §c§l出错了！%n%%n%设置自动缩放的基本大小失败！%n%请检查这两个值是否都大于 0%n%并且是有效的数字。%n% %n% %n% %n% %n%
+
+drippyloadingscreen.helper.editor.windowsize.currentwidth = 当前窗口宽度
+drippyloadingscreen.helper.editor.windowsize.currentheight = 当前窗口高度
+
+drippyloadingscreen.helper.editor.layoutoptions.randommode.on = 随机模式：§a开启
+drippyloadingscreen.helper.editor.layoutoptions.randommode.off = 随机模式：§c关闭
+drippyloadingscreen.helper.editor.layoutoptions.randommode.btn.desc = 当打开菜单时从同一组随机选择一个布局。%n%%n%可用于随机化背景和其他元素。
+drippyloadingscreen.helper.editor.layoutoptions.randommode.setgroup = 设置随机组
+drippyloadingscreen.helper.editor.layoutoptions.randommode.setgroup.btn.desc = 设置此随机布局的组。%n%每个组只会在打开菜单时%n%随机选择一个布局。
+drippyloadingscreen.helper.editor.layoutoptions.randommode.onlyfirsttime.on = 仅首次随机：§a开启
+drippyloadingscreen.helper.editor.layoutoptions.randommode.onlyfirsttime.off = 仅首次随机：§c关闭
+drippyloadingscreen.helper.editor.layoutoptions.randommode.onlyfirsttime.btn.desc = 如果此随机组的布局在每次打开菜单时%n%都应随机选择一个，还是仅在第一次%n%打开菜单时选择一个布局。
+
+drippyloadingscreen.helper.editor.items.copyid = 复制元素 ID
+drippyloadingscreen.helper.editor.items.copyid.btn.desc = 复制此元素的 ID。
+
+drippyloadingscreen.helper.editor.items.orientation.loading-progress.setidentifier = 设置元素 ID
+drippyloadingscreen.helper.editor.items.orientation.loading-progress.setidentifier.identifiernotfound = §c§l错误！%n%%n%找不到具有此元素 ID 的元素！%n%%n%%n%%n%
+drippyloadingscreen.helper.editor.items.orientation.loading-progress.setidentifier.invalidtype = §c§l错误！%n%%n%此元素不是自定义进度条元素！%n%%n%%n%%n%
+drippyloadingscreen.helper.editor.items.orientation.loading-progress.btn.desc = 自定义进度条元素的§l进度结束§r位置将被设置为方向的起始点，因此%n%此元素将始终随该自定义进度条的进度移动。%n%%n%在这里您需要父元素的元素 ID。%n%右键单击一个元素即可获取元素 ID。
+
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.loadingprogress = 加载进度 %
+
+drippyloadingscreen.helper.editor.layoutoptions.backgroundoptions.keepaspect.on = 保持背景纵横比：§a开启
+drippyloadingscreen.helper.editor.layoutoptions.backgroundoptions.keepaspect.off = 保持背景纵横比：§c关闭
+
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.cpuinfo = CPU 信息
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.gpuinfo = GPU 信息
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.javaversion = Java 版本
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.osname = 操作系统名称
+drippy
+
+loadingscreen.helper.ui.dynamicvariabletextfield.variables.openglversion = OpenGL 版本
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.randomtext = 来自 TXT 文件的随机文本
+drippyloadingscreen.helper.ui.dynamicvariabletextfield.variables.randomtext.desc = 从 TXT 文件中选择随机文本。%n%%n%支持为文本设置自定义更改间隔。%n%%n%只需将 '<filepath>'（删除 < >）替换为 TXT 文件的路径%n%将 '<interval_sec>'（删除 < >）替换为更改间隔（秒）。%n%间隔为 0 将使其每个会话仅选择一次文本。%n%%n%§l示例：%n%%randomtext:path/to/file.txt:10%
