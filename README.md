@@ -1,4 +1,4 @@
-# 1.16.5个人材质整合备份  
+# 1.16.5个人材质整合  
 # 资源包清单(待更新……)  
 ## 自制  
 [隐形蝙蝠](https://github.com/Oururis/IBat)  
@@ -15,6 +15,8 @@
 [inventoryprofiles0.4.2](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)部分汉化  
 [roughlyenoughitems5.9.2](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)汉化补充  
 
+---
+
 ## [vanillatweaks](https://vanillatweaks.net/picker/resource-packs/)  
 平滑的羊毛|高清盾牌图案|降低紫珀块饱和度  
 多样式颜料|篝火动画|燧石箭尖|更好的基岩
@@ -24,6 +26,9 @@
 彩虹XP条|船桨颜色与船身同步|合成书按钮修正
 统计信息图标修正|仙人掌底部修正|烈焰人底部修正
 手持物品修正|切石机动画修正|村民斗篷  
+
+---
+
 ## 其他材质包  
 [醉梦巅峰汉化Masa四件套](https://space.bilibili.com/13205801)（修改了一部分）
 [BetterVanillaAnimals](https://www.curseforge.com/minecraft/texture-packs/better-vanilla-animals)更真实的原版动物  
@@ -33,7 +38,7 @@
 
 ---
 
-# 格式化代码（Minecraft Formatting
+# 格式化代码(Minecraft Formatting)
 ——来自[**Minecraft Wiki**](https://minecraft.fandom.com/zh/wiki/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81#%E9%A2%9C%E8%89%B2%E4%BB%A3%E7%A0%81)  
 
 格式化代码（Formatting code），又称颜色代码（Color code），能使在游戏中加入含颜色和格式信息
